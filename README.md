@@ -14,6 +14,6 @@ PPAP（パスワードをメールで送る）の代替手段として、Twilio�
 
 - Twilio
   - Functions
-  - Flow
+  - Studio
   - Sync
 - Node.js
